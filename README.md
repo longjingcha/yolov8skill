@@ -63,6 +63,9 @@ Python 3.8 或更高版本
 
 ```text
 git clone https://github.com/yourusername/yolov8skill.git
+或者
+git clone git@github.com:longjingcha/yolov8skill.git
+
 cd yolov8skill
 ```
 
